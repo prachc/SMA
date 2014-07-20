@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMA</string>
+    <string name="caption_finish">Cancel</string>
+    <string name="service_started">SMA Activated</string>
+</resources>
